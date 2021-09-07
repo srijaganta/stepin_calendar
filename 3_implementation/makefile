@@ -1,6 +1,6 @@
-target : main.c checkwin.c board.c
-	gcc main.c checkwin.c board.c -o tic.exe
+target : main.c checkwin.c board.c 
+	gcc main.c checkwin.c board.c -o tictac.exe
 run : target
-	./tic.exe
-clean:
-	del tic.exe
+	./tictac.exe
+clean :
+	del tictac.exe
