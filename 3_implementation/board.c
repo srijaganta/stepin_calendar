@@ -16,7 +16,7 @@ FUNCTION TO DRAW BOARD OF TIC TAC TOE WITH PLAYERS MARK
  
  void board(char square[])
 {
-    //char square[10] = { 'o', '1', '2', '3', '4', '5', '6', '7', '8', '9' };
+    //c square[10] = { 'o', '1', '2', '3', '4', '5', '6', '7', '8', '9' };
     
 
     printf("cls");
