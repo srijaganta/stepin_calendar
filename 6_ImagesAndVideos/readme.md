@@ -1,1 +1,1 @@
-This Folder Contains Images of the ouput.
+This Folder Contains Images of the output.
