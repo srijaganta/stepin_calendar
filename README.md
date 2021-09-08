@@ -6,3 +6,6 @@
 
 
 [![Git Inspector](https://github.com/srijaganta/stepin_tic-tac-toe/actions/workflows/Git%20Inspector.yml/badge.svg)](https://github.com/srijaganta/stepin_tic-tac-toe/actions/workflows/Git%20Inspector.yml)
+
+
+[![Cpp check](https://github.com/srijaganta/stepin_tic-tac-toe/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/srijaganta/stepin_tic-tac-toe/actions/workflows/cppcheck.yml)
