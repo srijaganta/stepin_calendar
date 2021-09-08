@@ -9,3 +9,6 @@
 
 
 [![Cpp check](https://github.com/srijaganta/stepin_tic-tac-toe/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/srijaganta/stepin_tic-tac-toe/actions/workflows/cppcheck.yml)
+
+
+[![Static Code Analysis](https://github.com/srijaganta/stepin_tic-tac-toe/actions/workflows/static.yml/badge.svg)](https://github.com/srijaganta/stepin_tic-tac-toe/actions/workflows/static.yml)
